@@ -1,2 +1,1 @@
-THIS REPO HAS JAVA PROGRAMS FROM CORE TO ADVANCED
- 
+this repo has java basic to advanced programs 
